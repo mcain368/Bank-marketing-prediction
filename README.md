@@ -25,4 +25,4 @@ See `requirements.txt` for dependencies.
 - Key Features: `duration`, `balance`, `age`
 
 ## Author
-[Your Name] - [Your LinkedIn/GitHub Profile]
+Michael Cain - linkedin.com/in/michael-c-b727b6107/
